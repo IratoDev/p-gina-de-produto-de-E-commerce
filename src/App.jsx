@@ -11,9 +11,9 @@ const product = {
   title: 'Tênis Esportivo XYZ',
   price: 299.99,
   images: [
-    '/img/tenis1.jpg',
-    '/img/tenis2.jpg',
-    '/img/tenis3.jpg',
+    '/img/tenis1.webp',
+    '/img/tenis2.webp',
+    '/img/tenis3.webp',
   ],
   variants: {
     sizes: ['38', '39', '40', '41', '42'],
