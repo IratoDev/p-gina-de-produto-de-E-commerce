@@ -17,7 +17,7 @@ const product = {
   ],
   variants: {
     sizes: ['38', '39', '40', '41', '42'],
-    colors: ['Preto', 'Branco', 'Azul','Vermelho'],
+    colors: ['Preto', 'Branco', 'Azul'],
   },
 };
 
